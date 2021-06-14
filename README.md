@@ -1,5 +1,5 @@
 # Deep-learning-chat-bot
-The goal is to make a chat bot, that notes down user replies and is able to hold a conversation based on previous user input.
+The goal is to make a chatbot that notes down user replies and is able to hold a conversation based on previous user input.
 
 Ideas:
  1. Create two files that the bot will draw data from. Files cannot be operated on when in use, so the plan is to write down responses in a document and swap between the two to avoid this problem.
